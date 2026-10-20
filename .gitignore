@@ -27,7 +27,8 @@
 
 # Visual Studio cache directory
 .vs/
-
+.vsconfig
+*.vsconfig
 .vscode/
 *.sln
 *.slnx
